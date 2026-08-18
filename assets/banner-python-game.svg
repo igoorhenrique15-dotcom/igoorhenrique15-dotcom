@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Python Game Education — aprenda Python jogando">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07030d"/>
+      <stop offset="52%" stop-color="#150625"/>
+      <stop offset="100%" stop-color="#2b0a45"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="neon"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7c3aed" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1100" height="300" rx="28" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1097" height="297" rx="26.5" fill="none" stroke="#7c3aed" stroke-opacity="0.65" stroke-width="3"/>
+
+  <ellipse cx="187" cy="149" rx="170" ry="128" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- mascote/ghost estilizado -->
+  <path d="M185 56c-15 11-27 24-31 43-17-4-32 2-42 16-14 19-12 45 6 61 5 5 12 9 19 11-5 9-7 20-5 30 4 18 18 31 36 34 16 2 30-4 41-15 11 11 25 17 41 15 18-3 32-16 36-34 2-10 0-21-5-30 7-2 14-6 19-11 18-16 20-42 6-61-10-14-25-20-42-16-4-19-16-32-31-43-15 7-23 18-27 30-4-12-12-23-21-30z" fill="#12051f" stroke="#a855f7" stroke-width="3"/>
+  <path d="M144 137c16-15 36-20 59-14-5 22-20 34-44 34-9 0-16-8-15-20zM226 123c23-6 43-1 59 14 1 12-6 20-15 20-24 0-39-12-44-34z" fill="#d8b4fe" filter="url(#neon)"/>
+  <path d="M159 206c25 18 63 18 88 0" fill="none" stroke="#a855f7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M182 182l-18 15m64-15 18 15" stroke="#7c3aed" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- code particles -->
+  <g fill="#c084fc" opacity="0.8" font-family="monospace" font-size="17">
+    <text x="57" y="74">01</text><text x="74" y="112">{ }</text><text x="42" y="186">&lt;/&gt;</text><text x="284" y="79">10</text><text x="300" y="127">()</text><text x="288" y="217">[]</text>
+  </g>
+
+  <!-- title block -->
+  <text x="390" y="92" fill="#f5e9ff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" letter-spacing="1">PYTHON GAME</text>
+  <text x="390" y="142" fill="url(#violet)" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" letter-spacing="1">EDUCATION</text>
+  <text x="392" y="181" fill="#d8b4fe" font-family="monospace" font-size="20">aprenda Python jogando • pratique • avance</text>
+
+  <!-- chips -->
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="14">
+    <rect x="390" y="209" width="112" height="34" rx="17" fill="#1e0b2f" stroke="#7c3aed"/><text x="412" y="231" fill="#e9d5ff">PYTHON</text>
+    <rect x="516" y="209" width="110" height="34" rx="17" fill="#1e0b2f" stroke="#7c3aed"/><text x="537" y="231" fill="#e9d5ff">QUIZZES</text>
+    <rect x="640" y="209" width="128" height="34" rx="17" fill="#1e0b2f" stroke="#7c3aed"/><text x="658" y="231" fill="#e9d5ff">PROGRESSO</text>
+    <rect x="782" y="209" width="142" height="34" rx="17" fill="#1e0b2f" stroke="#7c3aed"/><text x="800" y="231" fill="#e9d5ff">GITHUB PAGES</text>
+  </g>
+
+  <!-- circuit lines -->
+  <g fill="none" stroke="#7c3aed" stroke-opacity="0.5" stroke-width="2">
+    <path d="M938 65h70l18 18h48"/><path d="M948 96h42l18 18h67"/><path d="M949 246h50l20-20h55"/>
+  </g>
+  <g fill="#a855f7"><circle cx="938" cy="65" r="4"/><circle cx="948" cy="96" r="4"/><circle cx="949" cy="246" r="4"/></g>
+
+  <text x="998" y="274" fill="#6b21a8" font-family="monospace" font-size="12">v1.0</text>
+</svg>
