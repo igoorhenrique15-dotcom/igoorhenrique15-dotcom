@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="Mascote ghost cyber roxo de Igor Henrique">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
+      <stop offset="0%" stop-color="#2b0a45"/>
+      <stop offset="55%" stop-color="#12051f"/>
+      <stop offset="100%" stop-color="#07030d"/>
+    </radialGradient>
+    <linearGradient id="aura" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d946ef"/>
+      <stop offset="48%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#5b21b6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#21112f"/>
+      <stop offset="55%" stop-color="#110a19"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+    <linearGradient id="hoodie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17101f"/>
+      <stop offset="100%" stop-color="#09060d"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b5cf6" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="640" rx="84" fill="url(#bg)"/>
+  <rect width="640" height="640" rx="84" fill="url(#grid)"/>
+
+  <g opacity=".55" filter="url(#soft)">
+    <circle cx="320" cy="306" r="205" fill="#7c3aed"/>
+  </g>
+
+  <!-- circuit accents -->
+  <g fill="none" stroke="#a855f7" stroke-width="4" stroke-linecap="round" opacity=".55">
+    <path d="M72 180h78l34 34h64"/>
+    <path d="M568 170h-68l-32 32h-54"/>
+    <path d="M94 478h76l40-40h58"/>
+    <path d="M548 470h-72l-42-42h-62"/>
+  </g>
+  <g fill="#c084fc" opacity=".8">
+    <circle cx="72" cy="180" r="6"/><circle cx="248" cy="214" r="6"/>
+    <circle cx="568" cy="170" r="6"/><circle cx="414" cy="202" r="6"/>
+    <circle cx="94" cy="478" r="6"/><circle cx="268" cy="438" r="6"/>
+    <circle cx="548" cy="470" r="6"/><circle cx="372" cy="428" r="6"/>
+  </g>
+
+  <!-- floating code -->
+  <g fill="#d8b4fe" font-family="monospace" font-weight="700" opacity=".72">
+    <text x="82" y="270" font-size="27">&lt;/&gt;</text>
+    <text x="494" y="286" font-size="25">AI</text>
+    <text x="108" y="382" font-size="22">01</text>
+    <text x="502" y="390" font-size="22">{ }</text>
+  </g>
+
+  <!-- aura flames -->
+  <g fill="url(#aura)" opacity=".84" filter="url(#glow)">
+    <path d="M184 356c-52-86 13-117 3-181 45 28 39 71 67 94-3-68 44-107 57-163 48 52 37 103 26 142 33-19 56-57 86-95 12 61 71 91 38 176 48 12 68 48 70 88-34-22-64-25-93-17-33 9-62 26-118 26-58 0-88-18-124-26-30-7-58-2-89 20 5-42 27-72 77-84z"/>
+  </g>
+
+  <!-- ears / flame crown -->
+  <path d="M223 224l-11-100 80 56 28-112 34 110 75-59-8 104c41 22 66 67 66 120 0 99-72 176-167 176s-167-77-167-176c0-54 27-98 70-119z" fill="url(#body)" stroke="#8b5cf6" stroke-width="5"/>
+
+  <!-- hoodie body -->
+  <path d="M188 430c30-50 82-77 132-77 51 0 104 28 133 79l35 119H152z" fill="url(#hoodie)" stroke="#5b21b6" stroke-width="5"/>
+  <path d="M221 409c23 18 59 29 99 29 41 0 77-12 101-31l-18 73H239z" fill="#0d0813" stroke="#4c1d95" stroke-width="4"/>
+
+  <!-- face -->
+  <path d="M220 286c31-27 69-36 100-34-14 19-32 34-58 42-17 5-30 1-42-8z" fill="#efe7ff" filter="url(#glow)"/>
+  <path d="M420 286c-31-27-69-36-100-34 14 19 32 34 58 42 17 5 30 1 42-8z" fill="#efe7ff" filter="url(#glow)"/>
+  <path d="M238 283c24-8 47-8 70-2-21 18-47 20-70 2z" fill="#a855f7"/>
+  <path d="M402 283c-24-8-47-8-70-2 21 18 47 20 70 2z" fill="#a855f7"/>
+
+  <!-- grin -->
+  <path d="M236 334c24 27 53 39 84 39 32 0 63-13 86-40-8 43-40 71-86 71-45 0-76-27-84-70z" fill="#f8f5ff" filter="url(#glow)"/>
+  <g stroke="#5b21b6" stroke-width="3" opacity=".85">
+    <path d="M263 349l6 35M290 357l3 40M320 360v42M350 357l-3 40M378 349l-7 35"/>
+  </g>
+
+  <!-- hoodie strings -->
+  <g stroke="#8b5cf6" stroke-width="6" stroke-linecap="round">
+    <path d="M278 441l-8 67"/><path d="M362 441l8 67"/>
+  </g>
+  <g fill="#a855f7"><circle cx="270" cy="512" r="8"/><circle cx="370" cy="512" r="8"/></g>
+
+  <!-- code emblem -->
+  <g fill="none" stroke="#c084fc" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M298 470l-24 24 24 24"/>
+    <path d="M342 470l24 24-24 24"/>
+    <path d="M328 462l-16 64"/>
+  </g>
+
+  <!-- small particles -->
+  <g fill="#e9d5ff">
+    <circle cx="146" cy="226" r="4"/><circle cx="477" cy="226" r="5"/>
+    <circle cx="157" cy="420" r="3"/><circle cx="485" cy="414" r="4"/>
+    <circle cx="209" cy="101" r="4"/><circle cx="440" cy="115" r="3"/>
+  </g>
+
+  <rect x="4" y="4" width="632" height="632" rx="80" fill="none" stroke="#8b5cf6" stroke-opacity=".55" stroke-width="8"/>
+</svg>
