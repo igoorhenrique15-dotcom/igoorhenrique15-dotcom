@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Igor Henrique — Estudante de tecnologia, IA, automações e código">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05030b"/>
+      <stop offset="0.46" stop-color="#10061d"/>
+      <stop offset="1" stop-color="#05030a"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="35%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#c084fc" stop-opacity=".95"/>
+      <stop offset=".35" stop-color="#7c3aed" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".55" stop-color="#e9d5ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#7c3aed" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="280" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="278" rx="17" fill="none" stroke="#7c3aed" stroke-opacity=".55"/>
+
+  <ellipse cx="230" cy="142" rx="250" ry="190" fill="url(#aura)" opacity=".72" filter="url(#soft)"/>
+  <path d="M20 235 C95 175 62 118 150 104 C220 93 190 43 282 27 C248 78 330 95 280 142 C244 176 329 192 370 248 C286 212 226 272 149 228 C92 196 63 265 20 235Z" fill="#6d28d9" opacity=".16"/>
+  <path d="M45 222 C113 189 73 146 154 131 C219 119 187 81 270 50 C246 94 307 104 273 148 C240 191 309 197 339 235" fill="none" stroke="#a855f7" stroke-opacity=".55" stroke-width="5" filter="url(#glow)"/>
+
+  <g fill="#a855f7" opacity=".5">
+    <polygon points="84,42 95,33 101,49 91,56"/><polygon points="326,49 340,42 344,56 332,63"/>
+    <polygon points="356,204 370,198 372,215 360,220"/><polygon points="48,178 62,173 66,190 52,195"/>
+  </g>
+
+  <g transform="translate(102 22)">
+    <path d="M96 113 C48 120 25 156 24 231 L215 231 C210 161 188 124 151 114 Z" fill="#090811" stroke="#6d28d9" stroke-width="2"/>
+    <path d="M52 155 C83 124 170 121 194 159 L178 229 L42 229 Z" fill="#0d0b16"/>
+    <path d="M62 131 C74 96 100 83 128 84 C156 84 179 99 188 131 C163 116 89 115 62 131Z" fill="#11101b" stroke="#7c3aed" stroke-opacity=".6"/>
+    <path d="M77 91 L58 65 L83 69 L75 40 L102 53 L107 22 L129 45 L150 18 L153 52 L183 31 L173 62 L204 58 L181 83 C177 110 158 129 128 132 C100 130 81 115 77 91Z" fill="#08070e" stroke="#7c3aed" stroke-opacity=".85" stroke-width="2"/>
+    <path d="M86 78 C94 61 111 53 131 53 C153 53 168 63 176 81 C174 109 157 122 129 124 C103 121 88 107 86 78Z" fill="#07060c"/>
+    <path d="M111 82 Q126 72 140 81 Q129 97 114 93Z" fill="#d8b4fe" filter="url(#glow)"/>
+    <circle cx="128" cy="85" r="4" fill="#fff"/>
+    <text x="91" y="185" fill="#a855f7" font-family="monospace" font-size="31" font-weight="700" filter="url(#glow)">&lt;/&gt;</text>
+    <path d="M39 207 C75 180 89 179 103 178" stroke="#7c3aed" stroke-opacity=".45" stroke-width="2" fill="none"/>
+    <path d="M217 207 C180 180 166 179 153 178" stroke="#7c3aed" stroke-opacity=".45" stroke-width="2" fill="none"/>
+  </g>
+
+  <g font-family="monospace" font-size="11" fill="#c084fc" opacity=".68" letter-spacing="2">
+    <text x="45" y="78">CODE</text><text x="45" y="98">FUTURE</text><text x="45" y="118">FOCUS</text><text x="45" y="138">EVOLVE</text>
+  </g>
+
+  <g font-family="monospace" font-size="9" fill="#a855f7" opacity=".22">
+    <text x="385" y="34">01 1001 0110 10 0011 1010 01</text>
+    <text x="420" y="52">110 001 10101 010 111 00</text>
+    <text x="1060" y="38">0101 10 111 0010</text>
+    <text x="1110" y="56">101 0011 01010</text>
+  </g>
+
+  <g transform="translate(420 0)">
+    <text x="0" y="114" fill="url(#title)" font-family="Impact, Arial Black, Arial, sans-serif" font-size="69" font-weight="900" letter-spacing="2" transform="skewX(-8)" filter="url(#glow)">IGOR HENRIQUE</text>
+    <text x="10" y="153" fill="#efe7f8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing=".3">Estudante de tecnologia | IA, automações e código</text>
+    <rect x="10" y="174" width="730" height="1" fill="url(#violet)" opacity=".55"/>
+
+    <g transform="translate(10 192)" font-family="ui-monospace, Consolas, monospace" font-weight="700">
+      <g><rect width="58" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="14" y="25" font-size="15" fill="#c084fc">PY</text></g>
+      <g transform="translate(75)"><rect width="68" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="13" y="25" font-size="17" fill="#c084fc">&lt;/&gt;</text></g>
+      <g transform="translate(160)"><rect width="58" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="16" y="25" font-size="15" fill="#c084fc">AI</text></g>
+      <g transform="translate(235)"><rect width="66" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="14" y="25" font-size="15" fill="#c084fc">&gt;_</text></g>
+      <g transform="translate(318)"><rect width="92" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="12" y="25" font-size="13" fill="#c084fc">AUTO</text></g>
+      <g transform="translate(427)"><rect width="68" height="38" rx="9" fill="#12091f" stroke="#7c3aed"/><text x="13" y="25" font-size="14" fill="#c084fc">GIT</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(1040 88)" opacity=".8">
+    <rect x="0" y="80" width="26" height="106" fill="#0d0a17" stroke="#6d28d9"/>
+    <rect x="35" y="43" width="42" height="143" fill="#0c0915" stroke="#6d28d9"/>
+    <rect x="87" y="69" width="30" height="117" fill="#0b0813" stroke="#6d28d9"/>
+    <rect x="126" y="21" width="48" height="165" fill="#0d0918" stroke="#7c3aed"/>
+    <rect x="183" y="58" width="28" height="128" fill="#0c0915" stroke="#6d28d9"/>
+    <g fill="#c084fc" opacity=".55">
+      <rect x="43" y="60" width="6" height="4"/><rect x="58" y="60" width="6" height="4"/>
+      <rect x="134" y="42" width="7" height="4"/><rect x="151" y="42" width="7" height="4"/>
+      <rect x="134" y="59" width="7" height="4"/><rect x="151" y="59" width="7" height="4"/>
+      <rect x="94" y="88" width="6" height="4"/><rect x="94" y="103" width="6" height="4"/>
+    </g>
+  </g>
+
+  <g fill="none" stroke="#8b5cf6" stroke-opacity=".46" stroke-width="1.4">
+    <path d="M1002 212 H1090 L1113 189 H1200"/>
+    <path d="M984 231 H1070 L1091 252 H1245"/>
+    <path d="M1036 191 H1098 L1125 164 H1248"/>
+    <circle cx="1000" cy="212" r="3" fill="#a855f7"/><circle cx="1248" cy="164" r="3" fill="#a855f7"/>
+  </g>
+</svg>
