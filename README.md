@@ -62,7 +62,7 @@ Uma plataforma web criada para **estudar fundamentos de Python de forma interati
 <div align="center">
 
 <a href="https://github.com/igoorhenrique15-dotcom/python-game-education">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=igoorhenrique15-dotcom&repo=python-game-education&theme=midnight-purple&hide_border=true&bg_color=0B0614&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF" alt="Python Game Education" />
+  <img width="100%" src="./assets/banner-python-game.svg" alt="Python Game Education — aprenda Python jogando" />
 </a>
 
 <br><br>
