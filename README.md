@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner-main.svg" alt="Igor Henrique — Estudante de tecnologia, IA, automações e código" />
+<img width="100%" src="./assets/banner-main.png" alt="Igor Henrique — Tecnologia, IA, automações e código" />
 
 <br>
 
@@ -18,7 +18,7 @@
 ## 👾 Sobre mim
 
 <div align="center">
-  <img width="120" src="./assets/ghost-avatar.svg" alt="Mascote ghost cyber roxo" />
+  <img width="180" src="./assets/ghost-avatar.png" alt="Mascote ghost cyber roxo" />
 </div>
 
 Sou **contador** e **estudante de tecnologia**, começando minha jornada em programação.
@@ -57,7 +57,7 @@ Projeto web para **estudar fundamentos de Python de forma interativa**, com exer
 <div align="center">
 
 <a href="https://github.com/igoorhenrique15-dotcom/python-game-education">
-  <img width="100%" src="./assets/banner-python-game.svg" alt="Python Game Education — aprenda Python jogando" />
+  <img width="100%" src="./assets/banner-python-game.png" alt="Python Game Education — aprenda Python jogando" />
 </a>
 
 <br><br>
@@ -88,14 +88,6 @@ Projeto web para **estudar fundamentos de Python de forma interativa**, com exer
 
 <div align="center">
 
-<img width="90" src="./assets/ghost-avatar.svg" alt="Mascote ghost" />
-
-### `BUILD > BREAK > LEARN > REPEAT`
-
-<sub>Começando agora. Construindo sempre.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,50:3b0764,100:0b0614" alt="Rodapé roxo" />
+<img width="100%" src="./assets/footer.png" alt="Construindo. Aprendendo. Evoluindo." />
 
 </div>
