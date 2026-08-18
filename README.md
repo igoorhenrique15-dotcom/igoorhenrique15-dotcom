@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0b0614,45:3b0764,100:7c3aed&text=IGOR%20HENRIQUE&fontColor=f5e9ff&fontSize=48&fontAlignY=42&desc=Contabilidade%20%E2%80%A2%20Tecnologia%20%E2%80%A2%20Intelig%C3%AAncia%20Artificial&descAlignY=64&descSize=17&animation=fadeIn" />
+<img width="100%" src="./assets/banner-main.svg" alt="Igor Henrique — Estudante de tecnologia, IA, automações e código" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Estudante+de+programa%C3%A7%C3%A3o+%F0%9F%91%BE;Aprendendo+na+pr%C3%A1tica+com+IA+%2B+c%C3%B3digo;Automa%C3%A7%C3%B5es+%E2%80%A2+Python+%E2%80%A2+Web+%E2%80%A2+IA" alt="Typing SVG" />
 
