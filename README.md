@@ -19,7 +19,7 @@
 ## 🩸 IGOR HENRIQUE // HOLLOW MODE
 
 <div align="center">
-<img width="180" src="./assets/ghost-avatar.png" alt="Ichigo Hollow em estilo anime com máscara e reiatsu laranja" />
+<img width="180" src="./assets/avatar-hollow.jpg" alt="Ichigo Hollow em estilo anime com máscara e reiatsu laranja" />
 </div>
 
 Sou **contador**, estudante de tecnologia e criador em transição para o desenvolvimento de software.
