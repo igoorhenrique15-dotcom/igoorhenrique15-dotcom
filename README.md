@@ -37,6 +37,13 @@ Transformo ideias em protótipos funcionais usando **IA como parceira de aprendi
 
 Minha regra de desenvolvimento: transformar pressão em evolução, bugs em aprendizado e ideias em algo que possa ser usado por alguém.
 
+```text
+forma atual  → Hollowfied Bankai
+arma         → Zangetsu
+técnica      → Getsuga Tenshō
+território   → Seireitei // laboratório // terminal
+```
+
 ---
 
 ## 🎴 ANIME DNA
@@ -44,8 +51,8 @@ Minha regra de desenvolvimento: transformar pressão em evolução, bugs em apre
 Não é só decoração: uso a linguagem dos animes para contar como trabalho e aprendo.
 
 <div align="center">
-  <img width="49%" src="./assets/banner-ichigo.png" alt="Guerreiro anime com energia laranja" />
-  <img width="49%" src="./assets/banner-ichigo-hollow.png" alt="Ichigo em modo Hollow com energia laranja e vermelha" />
+  <img width="49%" src="./assets/banner-ichigo.png" alt="Ichigo Kurosaki com Zangetsu e reiatsu laranja" />
+  <img width="49%" src="./assets/banner-ichigo-hollow.png" alt="Ichigo Kurosaki em forma Hollowfied Bankai" />
 </div>
 
 | Elemento | Na minha jornada |
@@ -62,7 +69,7 @@ Não é só decoração: uso a linguagem dos animes para contar como trabalho e 
 Uso diferentes agentes e interfaces de código para acelerar o ciclo completo: **idear → construir → testar → revisar → publicar**.
 
 <div align="center">
-  <img width="100%" src="./assets/banner-dev-arsenal.png" alt="Arsenal visual de desenvolvimento com IA" />
+  <img width="100%" src="./assets/banner-dev-arsenal.png" alt="Arsenal de desenvolvimento com máscaras Hollow, Zangetsu e interfaces de código" />
 </div>
 
 <table align="center">
@@ -77,13 +84,13 @@ Uso diferentes agentes e interfaces de código para acelerar o ciclo completo: *
 
 ---
 
-<img width="100%" src="./assets/divider-soul-society.png" alt="Divisória visual" />
+<img width="100%" src="./assets/divider-soul-society.png" alt="Seireitei e Senkaimon sob um anel de reiatsu Hollow" />
 
 ## 🧠 STACK EM TREINAMENTO
 
 <div align="center">
 
-<img width="100%" src="./assets/banner-skills.png" alt="Treinamento de habilidades em programação e automação" />
+<img width="100%" src="./assets/banner-skills.png" alt="Treinamento de habilidades com máscara Hollow e duas zanpakutō" />
 
 <br><br>
 
@@ -100,7 +107,7 @@ Uso diferentes agentes e interfaces de código para acelerar o ciclo completo: *
 
 ---
 
-<img width="100%" src="./assets/divider-soul-society.png" alt="Divisória visual" />
+<img width="100%" src="./assets/divider-soul-society.png" alt="Senkaimon e Seireitei em estética Hollow" />
 
 ## 🎮 PROJETO EM DESTAQUE
 
@@ -111,7 +118,7 @@ Projeto web para **estudar fundamentos de Python de forma interativa**, com exer
 <div align="center">
 
 <a href="https://github.com/igoorhenrique15-dotcom/python-game-education">
-  <img width="100%" src="./assets/banner-project-python.png" alt="Python Game Education em estética anime" />
+  <img width="100%" src="./assets/banner-project-python.png" alt="Python Game Education em laboratório de um Soul Reaper" />
 </a>
 
 <br><br>
@@ -177,6 +184,6 @@ Se você gosta de tecnologia, anime, automações ou projetos que nascem do zero
 
 <div align="center">
 
-<img width="100%" src="./assets/footer-soul-society.png" alt="Footer anime com energia espiritual e katana" />
+<img width="100%" src="./assets/footer-soul-society.png" alt="Seireitei ao entardecer com Zangetsu, borboletas e máscara Hollow" />
 
 </div>
