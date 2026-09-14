@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner-main.png" alt="Igor Henrique — Tecnologia, IA, automações e código" />
+<img width="100%" src="./assets/banner-ichigo-hollow.png" alt="Igor Henrique — código, IA e automações com estética Hollow de Bleach" />
 
 <br>
 
@@ -15,10 +15,10 @@
 
 ---
 
-## 👾 Sobre mim
+## 🩸 Sobre mim — modo Hollow
 
 <div align="center">
-  <img width="180" src="./assets/ghost-avatar.png" alt="Mascote ghost cyber roxo" />
+<img width="180" src="./assets/ghost-avatar.png" alt="Mascote ghost cyber em estética anime" />
 </div>
 
 Sou **contador**, estudante de tecnologia e criador em transição para o desenvolvimento de software.
@@ -31,6 +31,10 @@ Transformo ideias em protótipos funcionais usando **IA como parceira de aprendi
 👾 status  → learning.exe em execução
 ⚡ missão   → transformar curiosidade em produtos úteis
 ```
+
+> **“Se eu não puder proteger meus amigos, não importa o quanto eu seja forte.”**
+
+Minha regra de desenvolvimento: transformar pressão em evolução, bugs em aprendizado e ideias em algo que possa ser usado por alguém.
 
 ---
 
