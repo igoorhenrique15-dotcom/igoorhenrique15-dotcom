@@ -39,6 +39,24 @@ Minha regra de desenvolvimento: transformar pressão em evolução, bugs em apre
 
 ---
 
+## 🎴 ANIME DNA
+
+Não é só decoração: uso a linguagem dos animes para contar como trabalho e aprendo.
+
+<div align="center">
+  <img width="49%" src="./assets/banner-ichigo.png" alt="Guerreiro anime com energia laranja" />
+  <img width="49%" src="./assets/banner-ichigo-hollow.png" alt="Ichigo em modo Hollow com energia laranja e vermelha" />
+</div>
+
+| Elemento | Na minha jornada |
+| :--- | :--- |
+| ⚔️ **Zanpakutō** | Ferramentas são extensões da criatividade; o resultado é o que importa. |
+| 🔥 **Reiatsu** | Energia para sair da ideia e chegar a um projeto funcionando. |
+| ☠️ **Hollow** | Bugs, erros e travas fazem parte da transformação. |
+| 📖 **Manga panel** | Cada commit registra uma nova página da evolução. |
+
+---
+
 ## ⚔️ MEU ARSENAL DE IA
 
 Uso diferentes agentes e interfaces de código para acelerar o ciclo completo: **idear → construir → testar → revisar → publicar**.
