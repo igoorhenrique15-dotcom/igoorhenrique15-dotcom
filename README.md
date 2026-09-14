@@ -21,15 +21,36 @@
   <img width="180" src="./assets/ghost-avatar.png" alt="Mascote ghost cyber roxo" />
 </div>
 
-Sou **contador** e **estudante de tecnologia**, começando minha jornada em programação.
+Sou **contador**, estudante de tecnologia e criador em transição para o desenvolvimento de software.
 
-Uso **IA como apoio para aprender e construir projetos**, sempre tentando entender melhor o código e evoluir na prática.
+Transformo ideias em protótipos funcionais usando **IA como parceira de aprendizagem**, documentação e experimentação — sempre revisando o código para entender o porquê de cada decisão.
 
 ```text
 🎯 foco    → programação + automações + IA
 🧠 método  → construir → testar → entender → melhorar
 👾 status  → learning.exe em execução
+⚡ missão   → transformar curiosidade em produtos úteis
 ```
+
+---
+
+## 🧪 Meu laboratório de desenvolvimento com IA
+
+Uso diferentes agentes e interfaces de código para acelerar o ciclo completo: **idear → construir → testar → revisar → publicar**.
+
+<div align="center">
+  <img width="100%" src="./assets/toolchain.png" alt="Fluxo visual com Claude Code, Antigravity e Codex CLI" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Claude Code</b><br><sub>Explorar ideias, refatorar e aprender com o terminal.</sub></td>
+    <td align="center" width="33%"><b>Antigravity</b><br><sub>Experimentar interfaces e transformar conceitos em protótipos.</sub></td>
+    <td align="center" width="33%"><b>Codex CLI</b><br><sub>Implementar, depurar e iterar com contexto do projeto.</sub></td>
+  </tr>
+</table>
+
+> A ferramenta muda; o princípio permanece: escrever código compreensível, testar hipóteses e evoluir em público.
 
 ---
 
@@ -73,6 +94,24 @@ Projeto web para **estudar fundamentos de Python de forma interativa**, com exer
 <a href="https://igoorhenrique15-dotcom.github.io/python-game-education/"><img src="https://img.shields.io/badge/ABRIR%20DEMO-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir demo" /></a>
 
 </div>
+
+---
+
+## 🚀 O que estou construindo
+
+- **Experiências educacionais:** interfaces que tornam o aprendizado de programação mais prático e visual.
+- **Automações inteligentes:** pequenos fluxos para reduzir tarefas repetitivas e organizar processos.
+- **Projetos com agentes:** explorando como Claude Code, Antigravity e Codex CLI podem colaborar no desenvolvimento.
+- **Fundamentos sólidos:** Python, web, Git, acessibilidade, documentação e boas práticas de produto.
+
+## 🗺️ Próximos passos
+
+```text
+agora       → consolidar Python, JavaScript e arquitetura de projetos
+em seguida  → criar automações úteis para rotinas reais
+depois      → publicar projetos completos, documentados e acessíveis
+sempre      → aprender, compartilhar e melhorar
+```
 
 ---
 
